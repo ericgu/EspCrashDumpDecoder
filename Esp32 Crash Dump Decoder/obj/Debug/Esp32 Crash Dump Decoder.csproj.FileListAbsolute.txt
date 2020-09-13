@@ -1,0 +1,10 @@
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\obj\Debug\Esp32 Crash Dump Decoder.csprojAssemblyReference.cache
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\obj\Debug\Esp32_Crash_Dump_Decoder.Properties.Resources.resources
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\obj\Debug\Esp32 Crash Dump Decoder.csproj.GenerateResource.cache
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\obj\Debug\Esp32 Crash Dump Decoder.csproj.CoreCompileInputs.cache
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\bin\Debug\Esp32 Crash Dump Decoder.exe.config
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\bin\Debug\Esp32 Crash Dump Decoder.exe
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\bin\Debug\Esp32 Crash Dump Decoder.pdb
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\obj\Debug\Esp32 Crash Dump Decoder.exe
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\obj\Debug\Esp32 Crash Dump Decoder.pdb
+D:\data\Electronics\Esp32 crash dump decoder\Esp32 Crash Dump Decoder\obj\Debug\Esp32_Crash_Dump_Decoder.Form1.resources
